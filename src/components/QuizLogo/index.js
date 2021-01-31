@@ -40,5 +40,3 @@ const QuizLogo = styled(Logo)`
     margin: 0;
   }
 `;
-
-export default QuizLogo;

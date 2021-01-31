@@ -1,45 +1,115 @@
 {
   "bg": "https://img.elo7.com.br/product/zoom/2C7ADC7/adesivo-de-parede-infantil-desenhos-animais-silvestre-3mt-papel-de-parede-listrado-abstrato.jpg",
-  "title": "Quiz dos animais",
-  "description": "Um quiz rápido sobre animais",
+  "title": "QUIZ DOS ANIMAIS",
   "questions": [
     {
       "image": "https://media4.giphy.com/media/gLugCaElYXH7589sSb/giphy.gif",
-      "title": "Qual animal é esse?",
-      "description": "Pergunta fácil em!",
+      "title": "QUAL ANIMAL É ESSE?",
       "answer": 1,
       "alternatives": [
-        "Gato",
-        "Cachorro"
+        "GATO",
+        "CACHORRO",
+        "CAVALO",
+        "PEIXE"
       ]
     },
     {
       "image": "https://i2.wp.com/desejosdebeleza.com/wp-content/uploads/2014/05/gato-fofo-2.gif?fit=499%2C289&ssl=1",
-      "title": "Qual animal é esse?",
-      "description": "E agora? Você sabe?",
+      "title": "QUAL ANIMAL É ESSE?",
       "answer": 0,
       "alternatives": [
-        "Gato",
-        "Raposa"
+        "GATO",
+        "RAPOSA",
+        "CORUJA",
+        "COBRA"
       ]
     },
     {
       "image": "https://mensagenseatividades.com/wp-content/uploads/2017/05/gifs-com-animais-para-facebook.gif",
-      "title": "Qual urso é esse?",
+      "title": "QUAL ANIMAL É ESSE?",
       "answer": 1,
       "alternatives": [
-        "Marrom",
-        "Panda"
+        "ELEFANTE",
+        "PANDA",
+        "ZEBRA",
+        "GATO"
       ]
     },
     {
-      "image": "https://media.tenor.com/images/4732b29a8c49aee642c3d62bdbf68121/tenor.gif",
-      "title": "Qual animal é esse?",
+      "image": "https://media.tenor.com/images/36368099d2850ffb438f54896430ba38/tenor.gif",
+      "title": "QUAL ANIMAL É ESSE?",
       "answer": 2,
       "alternatives": [
-        "Tigre",
-        "Lobo",
-        "Porco"
+        "TIGRE",
+        "LOBO",
+        "PORCO",
+        "GIRAFA"
+      ]
+    },
+    {
+      "image": "https://img.ibxk.com.br/2014/09/02/02180355621672.gif",
+      "title": "QUAL ANIMAL É ESSE?",
+      "answer": 3,
+      "alternatives": [
+        "GALO",
+        "VACA",
+        "LOBO",
+        "ELEFANTE"
+      ]
+    },
+    {
+      "image": "https://i.pinimg.com/originals/b2/ef/c0/b2efc05fdbaca46b752161cde2c73b0b.gif",
+      "title": "QUAL ANIMAL É ESSE?",
+      "answer": 1,
+      "alternatives": [
+        "MACACO",
+        "LEÃO",
+        "RINOCERONTE",
+        "HIENA"
+      ]
+    },
+    {
+      "image": "https://media.tenor.com/images/e038a57e6b77c0c11d7f57d9b7e4246c/tenor.gif",
+      "title": "QUAL ANIMAL É ESSE?",
+      "answer": 0,
+      "alternatives": [
+        "MACACO",
+        "LOBO",
+        "GALO",
+        "GIRAFA"
+      ]
+    },
+    {
+      "image": "https://img.ibxk.com.br/2018/01/18/girafa-18104623528042.gif",
+      "title": "QUAL ANIMAL É ESSE?",
+      "answer": 2,
+      "alternatives": [
+        "ZEBRA",
+        "GATO",
+        "GIRAFA",
+        "CACHORRO"
+      ]
+    },
+    {
+      "image": "https://media3.giphy.com/media/YlSI3hHkri5C7KgKmI/giphy.gif",
+      "title": "QUAL ANIMAL É ESSE?",
+      "answer": 0,
+      "alternatives": [
+        "ZEBRA",
+        "MACACO",
+        "COBRA",
+        "LOBO"
+      ]
+    },
+    {
+      "image": "https://media.tenor.com/images/71371f66bae6aeef18d3e1747104e112/tenor.gif",
+      "title": "QUAL ANIMAL É ESSE?",
+      "answer": 2,
+      "alternatives": [
+        "LEÃO",
+        "MORCEGO",
+        "VACA",
+        "GALO"
       ]
     }
   ],
@@ -49,12 +119,12 @@
   ],
   "theme": {
     "colors": {
-      "primary": "#222222",
-      "secondary": "#e89c3f",
+      "primary": "#1e88e5",
+      "secondary": "#00897b",
       "mainBg": "#213f4e",
       "contrastText": "#FFFFFF",
-      "wrong": "#FF5722",
-      "success": "#4CAF50"
+      "wrong": "#b71c1c",
+      "success": "#43a047"
     },
     "borderRadius": "4px"
   }
