@@ -8,7 +8,6 @@ import NextImage from 'next/image';
 import styled from 'styled-components';
 import db from '../../db.json';
 import Widget from '../../src/components/Widget';
-import QuizLogo from '../../src/components/QuizLogo';
 import QuizBackground from '../../src/components/QuizBackground';
 import Footer from '../../src/components/Footer';
 import GitHubCorner from '../../src/components/GitHubCorner';
@@ -46,7 +45,6 @@ export default function ContributorsPage({ contributors }) {
   return (
     <QuizBackground backgroundImage="https://www.alura.com.br/assets/img/imersoes/react-2/fundo-do-mar-imersao-react-2-01.1609262503.svg">
       <QuizContainer style={{ margin: 'auto', padding: '5%', maxWidth: '1400px' }}>
-        <QuizLogo />
         <Widget style={{ maxWidth: '350px', marginLeft: 'auto', marginRight: 'auto' }}>
           <Widget.Header style={{ justifyContent: 'center' }}>
             <h1 style={{ fontSize: '25px' }}>Galeria de Projetos</h1>
